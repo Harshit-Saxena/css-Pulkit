@@ -1,0 +1,34 @@
+#header {
+        line-height:40px;
+        color: white;
+        background-color:grey;
+        text-align:left;
+        padding:6px;
+    }
+    #navigation {
+        line-height:40px;
+        font-size-adjust: 1;
+        color: white;
+        background-color: rgb(24, 189, 201);
+        height: 50px;
+        padding: 5px;
+        float: centre;
+    }
+    #navigation2 {
+        line-height:40px;
+        font-size-adjust: 1;
+        height:500px;
+        padding:25px;
+        float: right;
+    }
+    #heading {
+        text-align: left;
+        font-style: normal;
+    }
+    #para {
+        margin-right: 1000px;
+        font-size-adjust: 0.5;
+    }
+    #image {
+        margin-left: 500px;
+    }
