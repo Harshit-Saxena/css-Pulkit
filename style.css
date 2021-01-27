@@ -6,14 +6,14 @@ body{
     font-family: "Potta one",sans-serif;
 }
 h2{
-    color: rgba(65, 197, 225, 0.75);
+    color: rgba(65, 197, 225, 0.75); // you have used color tab many times it is better to use variable to call the variable name.
 }
 #title{
     color: rgb(194, 129, 69);
     font-weight: 500;
 }
 .subtitle{
-    color: rgba(65, 197, 225, 0.664);
+    color: rgba(65, 197, 225, 0.664); // 
 }
 #image{
     height: 500px;
@@ -25,7 +25,7 @@ h2{
     float: right;
 }
 p{
-    color: rgba(223, 17, 137, 0.75);
+    color: rgba(223, 17, 137, 0.75);Call !.
 }
 .link:hover{    
     text-decoration: none;
